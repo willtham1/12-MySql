@@ -1,0 +1,24 @@
+{
+  "name": "12-mysql",
+  "version": "1.0.0",
+  "description": "12 MySql Homework",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willtham1/12-MySql.git"
+  },
+  "author": "Willtham1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willtham1/12-MySql/issues"
+  },
+  "homepage": "https://github.com/willtham1/12-MySql#readme"
+}
